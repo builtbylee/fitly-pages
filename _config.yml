@@ -3,5 +3,3 @@ description: Fitness tracking app
 url: "https://builtbylee.github.io"
 baseurl: "/fitly-pages"
 markdown: kramdown
-plugins:
-  - jekyll-seo-tag
