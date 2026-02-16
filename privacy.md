@@ -83,4 +83,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy or your data, please contact us at:
 
-**Email**: [fitly@builtbylee.com](mailto:fitly@builtbylee.com)
+**Email**: [contact.builtbylee@gmail.com](mailto:contact.builtbylee@gmail.com)

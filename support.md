@@ -12,7 +12,7 @@ description: Fitly Support — get help, report bugs, or contact us.
 
 The fastest way to reach us is by email:
 
-**Email**: [fitly@builtbylee.com](mailto:fitly@builtbylee.com)
+**Email**: [contact.builtbylee@gmail.com](mailto:contact.builtbylee@gmail.com)
 
 We aim to respond within 48 hours.
 
@@ -62,4 +62,4 @@ If you encounter a bug or crash, please email us with:
 
 ## Feedback
 
-We welcome feature requests and general feedback. Email us at [fitly@builtbylee.com](mailto:fitly@builtbylee.com).
+We welcome feature requests and general feedback. Email us at [contact.builtbylee@gmail.com](mailto:contact.builtbylee@gmail.com).

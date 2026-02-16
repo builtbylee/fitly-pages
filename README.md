@@ -1,6 +1,6 @@
 # Fitly Pages
 
-Public-facing pages for the Fitly app (privacy policy, support). Hosted via GitHub Pages.
+Public-facing pages for the Fitly app (privacy policy, terms of service, support). Hosted via GitHub Pages.
 
 ## Live URLs
 
@@ -8,6 +8,7 @@ Public-facing pages for the Fitly app (privacy policy, support). Hosted via GitH
 |------|-----|
 | Home | https://builtbylee.github.io/fitly-pages/ |
 | Privacy Policy | https://builtbylee.github.io/fitly-pages/privacy |
+| Terms of Service | https://builtbylee.github.io/fitly-pages/terms |
 | Support | https://builtbylee.github.io/fitly-pages/support |
 
 ## How to Edit
@@ -18,6 +19,7 @@ All content is in **Markdown** files at the repo root:
 |------|------|
 | `index.md` | Home page |
 | `privacy.md` | Privacy Policy |
+| `terms.md` | Terms of Service |
 | `support.md` | Support page |
 
 To update a page:
@@ -34,6 +36,7 @@ _layouts/default.html # Shared HTML layout (header, nav, footer)
 assets/style.css     # Stylesheet (light/dark mode, mobile-friendly)
 index.md             # Home page
 privacy.md           # Privacy Policy
+terms.md             # Terms of Service
 support.md           # Support page
 ```
 
@@ -45,6 +48,7 @@ support.md           # Support page
 **App Store Connect:**
 - Privacy Policy URL: `https://builtbylee.github.io/fitly-pages/privacy`
 - Support URL: `https://builtbylee.github.io/fitly-pages/support`
+- Terms of Use URL (optional field): `https://builtbylee.github.io/fitly-pages/terms`
 
 ## Local Preview
 
