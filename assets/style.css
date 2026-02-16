@@ -174,12 +174,12 @@ body {
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  background: var(--accent-light);
+  background: #1a1a1a;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 1.25rem;
-  color: var(--text);
+  color: #7c3aed;
 }
 
 .link-card-content h3 {
