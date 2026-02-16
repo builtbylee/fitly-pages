@@ -179,6 +179,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 1.25rem;
+  color: var(--accent);
 }
 
 .link-card-content h3 {
