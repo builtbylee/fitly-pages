@@ -3,20 +3,37 @@ layout: default
 title: Home
 ---
 
-<h1>Fitly</h1>
-<p>A personal fitness tracking app for Android.</p>
+<div class="hero">
+  <img class="hero-icon" src="{{ '/assets/icon.png' | relative_url }}" alt="Fitly" width="80" height="80">
+  <h1>Fitly</h1>
+  <p class="tagline">Personal fitness tracking for Android.</p>
+</div>
 
-<a class="link-card" href="{{ '/privacy' | relative_url }}">
-  <h3>Privacy Policy</h3>
-  <p>How Fitly handles your data.</p>
-</a>
+<div class="cards">
+  <a class="link-card" href="{{ '/privacy' | relative_url }}">
+    <div class="link-card-icon">&#x1F512;</div>
+    <div class="link-card-content">
+      <h3>Privacy Policy</h3>
+      <p>How Fitly handles your data.</p>
+    </div>
+    <span class="arrow">&#x203A;</span>
+  </a>
 
-<a class="link-card" href="{{ '/terms' | relative_url }}">
-  <h3>Terms of Service</h3>
-  <p>Rules and conditions for using the app.</p>
-</a>
+  <a class="link-card" href="{{ '/terms' | relative_url }}">
+    <div class="link-card-icon">&#x1F4CB;</div>
+    <div class="link-card-content">
+      <h3>Terms of Service</h3>
+      <p>Rules and conditions for using the app.</p>
+    </div>
+    <span class="arrow">&#x203A;</span>
+  </a>
 
-<a class="link-card" href="{{ '/support' | relative_url }}">
-  <h3>Support</h3>
-  <p>Get help, report issues, or contact us.</p>
-</a>
+  <a class="link-card" href="{{ '/support' | relative_url }}">
+    <div class="link-card-icon">&#x1F4AC;</div>
+    <div class="link-card-content">
+      <h3>Support</h3>
+      <p>Get help, report issues, or contact us.</p>
+    </div>
+    <span class="arrow">&#x203A;</span>
+  </a>
+</div>
