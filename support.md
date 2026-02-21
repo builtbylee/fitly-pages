@@ -58,7 +58,7 @@ Ryval works with any standard Bluetooth heart rate monitor (e.g. Polar, Wahoo, G
 ## App Information
 
 - **App name**: Ryval
-- **Package name**: `com.hackneymanlee2.fitly`
+- **Package name**: `com.hackneymanlee2.ryval`
 - **Developer**: Built by Lee
 - **Platform**: Android
 
