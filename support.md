@@ -29,9 +29,11 @@ If you encounter a bug or crash, please email us with:
 
 ### Heart Rate Monitor Not Connecting
 
+Fitly works with any standard Bluetooth heart rate monitor (e.g. Polar, Wahoo, Garmin, Coospo).
+
 1. Make sure Bluetooth is enabled on your device.
 2. Ensure the heart rate monitor is powered on and not connected to another app.
-3. Open Fitly > Settings > Polar H10 > Scan for Devices.
+3. Open Fitly > Settings > Heart Rate Monitor > Scan for Devices.
 4. Select your device from the list and tap Connect.
 5. If the monitor still won't connect, try restarting Bluetooth or your phone.
 
