@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Terms of Service
-description: Fitly Terms of Service — rules and conditions for using the app.
+description: Ryval Terms of Service — rules and conditions for using the app.
 ---
 
 # Terms of Service
 
 <p class="subtitle">Effective date: February 16, 2026</p>
 
-These Terms of Service ("Terms") govern your use of the Fitly mobile application ("the App"). By downloading, installing, or using the App, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of the Ryval mobile application ("the App"). By downloading, installing, or using the App, you agree to these Terms.
 
 ## Use of the App
 
-Fitly is a personal fitness tracking application. The App is provided for informational and personal fitness tracking purposes only. It is **not** a medical device and does **not** provide medical advice, diagnosis, or treatment.
+Ryval is a personal fitness tracking application. The App is provided for informational and personal fitness tracking purposes only. It is **not** a medical device and does **not** provide medical advice, diagnosis, or treatment.
 
 You agree to:
 

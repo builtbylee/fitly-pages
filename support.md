@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Support
-description: Fitly Support — get help, report bugs, or contact us.
+description: Ryval Support — get help, report bugs, or contact us.
 ---
 
 # Support
@@ -29,20 +29,20 @@ If you encounter a bug or crash, please email us with:
 
 ### Heart Rate Monitor Not Connecting
 
-Fitly works with any standard Bluetooth heart rate monitor (e.g. Polar, Wahoo, Garmin, Coospo).
+Ryval works with any standard Bluetooth heart rate monitor (e.g. Polar, Wahoo, Garmin, Coospo).
 
 1. Make sure Bluetooth is enabled on your device.
 2. Ensure the heart rate monitor is powered on and not connected to another app.
-3. Open Fitly > Settings > Heart Rate Monitor > Scan for Devices.
+3. Open Ryval > Settings > Heart Rate Monitor > Scan for Devices.
 4. Select your device from the list and tap Connect.
 5. If the monitor still won't connect, try restarting Bluetooth or your phone.
 
 ### Health Connect Not Working
 
 1. Make sure Health Connect is installed on your device (available from the Google Play Store).
-2. Open Fitly > Settings > Health Connect > Connect.
+2. Open Ryval > Settings > Health Connect > Connect.
 3. Grant the requested permissions when prompted.
-4. If the permission dialog doesn't appear, go to Android Settings > Apps > Health Connect > Permissions and manually grant access to Fitly.
+4. If the permission dialog doesn't appear, go to Android Settings > Apps > Health Connect > Permissions and manually grant access to Ryval.
 
 ### Workout Data Not Saving
 
@@ -57,7 +57,7 @@ Fitly works with any standard Bluetooth heart rate monitor (e.g. Polar, Wahoo, G
 
 ## App Information
 
-- **App name**: Fitly
+- **App name**: Ryval
 - **Package name**: `com.hackneymanlee2.fitly`
 - **Developer**: Built by Lee
 - **Platform**: Android

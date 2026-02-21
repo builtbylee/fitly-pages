@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Privacy Policy
-description: Fitly Privacy Policy — how we collect, use, and protect your data.
+description: Ryval Privacy Policy — how we collect, use, and protect your data.
 ---
 
 # Privacy Policy
 
 <p class="subtitle">Effective date: February 16, 2026</p>
 
-Fitly ("the App") is a personal fitness tracking application. This policy explains what data the App collects, how it is stored, and your choices regarding that data.
+Ryval ("the App") is a personal fitness tracking application. This policy explains what data the App collects, how it is stored, and your choices regarding that data.
 
 ## Data We Collect
 
