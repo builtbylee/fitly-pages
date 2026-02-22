@@ -34,7 +34,7 @@ To update a page:
 _config.yml          # Jekyll site config
 _layouts/default.html # Shared HTML layout (header, nav, footer)
 assets/style.css     # Stylesheet (light/dark mode, mobile-friendly)
-assets/icon.png      # App icon (used as site favicon and hero)
+assets/icon-ryval.png # App icon (used as site favicon and hero)
 index.html           # Home page
 privacy.md           # Privacy Policy
 terms.md             # Terms of Service
